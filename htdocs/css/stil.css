@@ -1,0 +1,81 @@
+body {
+  padding-bottom: 60px;
+}
+#background {
+  background: url(../img/bakgrunn.jpg) repeat;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: -1;
+}
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  max-width: 1000px;
+}
+@media (max-width:767px) {
+  img.bilde { max-height:140px }
+}
+img.bilde {
+  -ms-interpolation-mode: bicubic;
+}
+i.bilde {
+  font-size: 120px;
+  margin-top: 20px;
+}
+.artikkel {
+  padding-bottom: 20px;
+}
+.artikkel:nth-child(odd) .well {
+  background: #eee;
+}
+.skjema {
+  background: #ddd;
+}
+.input-prepend {
+  width: 100%;
+  padding-right: 25px;
+  -webkit-box-sizing: border-box; /* Safari/Chrome, other WebKit */
+  -moz-box-sizing: border-box;    /* Firefox, other Gecko */
+  box-sizing: border-box;         /* Opera/IE 8+ */
+}
+input {
+  width: 100% !important;
+}
+textarea {
+  resize: vertical;
+  height: 120px !important;
+}
+a:hover {
+  text-decoration: none;
+}
+.blue th {
+  background: #EBF5FF;
+}
+.blue td {
+  background: #fff;
+}
+.blue-striped tr:nth-child(odd) {
+  background: #EBF5FF;
+}
+.blue-striped tr:nth-child(even) {
+  background: #fff;
+}
+.logo {
+  max-height:200px;
+}
+@media (min-width: 768px) {
+  .slagord h1 {
+    padding-top:40px;
+  }
+}
+.meny {
+  max-width: 1000px;
+  z-index: 9;
+  padding-top: 10px;
+}
+.affix {
+  top: 0px;
+}
