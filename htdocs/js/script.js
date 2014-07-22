@@ -16,7 +16,7 @@ $("document").ready(function($){ //html-lasted ned
   meny.affix({ offset: meny.position() });
   $('.ytre-meny').height(meny.outerHeight() + 15);
   // scroll og skjul mobilmeny
-  $('.nav a[href*="#"], .goto a[href*="#"]').click(function() {
+  $('.nav a[href*="#"], a[href*="#"].goto').click(function() {
     hideMenu();
     var link = $(this).attr('href'),
         id = link.slice(link.indexOf('#')),
