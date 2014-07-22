@@ -27,6 +27,7 @@ function calcAge($birthday){
     </div>
   </div>
 </div>
+<!-- permisjon
 <div class="row artikkel">
   <div class="col-xs-12">
     <div class="well clearfix">
@@ -43,7 +44,7 @@ function calcAge($birthday){
       </div>
     </div>
   </div>
-</div>
+</div> end permisjon -->
 <div class="row artikkel">
   <div class="col-xs-12">
     <div class="well clearfix">
