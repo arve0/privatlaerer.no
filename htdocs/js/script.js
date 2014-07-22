@@ -6,7 +6,7 @@ $("document").ready(function($){ //html-lasted ned
   // funksjoner
   var hideMenu = function(){
    if(scr_w < 768) $('#collapse').collapse('hide');
-  }
+  };
   // bredde meny når affix
   meny.css('width', $('.slagord').width());
   $(window).resize(function() {
@@ -16,7 +16,7 @@ $("document").ready(function($){ //html-lasted ned
   meny.affix({ offset: meny.position() });
   $('.ytre-meny').height(meny.outerHeight() + 15);
   // scroll og skjul mobilmeny
-  $('.nav a[href*="#"]').click(function() {
+  $('.nav a[href*="#"], .goto a[href*="#"]').click(function() {
     hideMenu();
     var link = $(this).attr('href'),
         id = link.slice(link.indexOf('#')),
