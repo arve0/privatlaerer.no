@@ -5,7 +5,7 @@
     <title>Privatlærer i Trondheim - <?php echo $tittel; ?></title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta name="description" content="Realfagslærere fra lektorutdanningen på NTNU. Fag: Matematikk, fysikk, kjemi, IT og elektronikk. Pris fra 550kr/time." />
+    <meta name="description" content="Realfagslærere fra lektorutdanningen på NTNU. Fag: Matematikk, fysikk, kjemi, IT og elektronikk. Pris fra 450kr/time." />
     <link href="css/bootstrap.min.css" rel="stylesheet" />
     <link href="css/stil.css" rel="stylesheet" />
   </head>
