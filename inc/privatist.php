@@ -5,7 +5,15 @@
     <div class="well clearfix">
       <h3>Privatist</h3>
       <p class="lead">
-        Å ta opp fag som privatist er en effektiv måte å forbedre karakterutskriften fra videregående. Du slipper obligatorisk oppmøte og trenger kun å gjøre en god eksamen. Du bestemmer omfanget; litt  hjelp eller full oppfølgning hver eneste uke. Er du usikker på hvordan du burde legge opp lesingen, hjelper vi med det også.</p>
+        Å ta opp fag som privatist er effektivt for å:
+      </p>
+      <ul class="lead">
+        <li>Forbedre karakterer.</li>
+        <li>Oppnå studiekompetanse.</li>
+      </ul>
+      <p class="lead">
+        Du slipper obligatorisk oppmøte og trenger kun å gjøre en god eksamen. Du bestemmer omfanget; litt  hjelp eller full oppfølgning hver eneste uke. Er du usikker på hvordan du burde legge opp lesingen, hjelper vi med det også.
+      </p>
       <h4>Eksempel på pakketilbud:</h4>
       <p class="lead">
         Du begynner å lese 1. september og har eksamen 1. desember. Du får hjelp med pensumet 2 timer hver uke fram til eksamen. Pakkepris: 11700 kr. <a class="goto" href="#kontakt">Kontakt oss</a> for pakketilbud.</a>
