@@ -1,4 +1,5 @@
 <?php
+date_default_timezone_set('Europe/Oslo');
 function calcAge($birthday){
   $birthday_array = array(substr($birthday,0,4), substr($birthday,4,4));
   $today = array(date('Y'), date('md'));
