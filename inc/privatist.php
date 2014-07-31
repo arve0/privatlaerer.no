@@ -12,7 +12,8 @@
         <li>Oppnå studiekompetanse.</li>
       </ul>
       <p class="lead">
-        Du slipper obligatorisk oppmøte og trenger kun å gjøre en god eksamen. Du bestemmer omfanget; litt  hjelp eller full oppfølgning hver eneste uke. Er du usikker på hvordan du burde legge opp lesingen, hjelper vi med det også.
+        Du slipper obligatorisk oppmøte og trenger kun å gjøre en god eksamen. Du bestemmer omfanget; litt  hjelp eller full oppfølgning hver eneste uke. Er du usikker på hvordan du burde legge opp lesingen, hjelper vi med det også.<br><br>
+        Bestiller du en pakke fra oss er vi konkurransedyktige på pris med privatistgymnas. Med privatundervisning vil eleven få mer tid med læreren, som er fordelaktig dersom eleven jobber selvstendig. Hvorfor betale for å sitte i et klasserom, hvis du vet hva du trenger hjelp med? Hos oss betaler du ikke for undervisningen til en hel klasse, men for ditt eget behov.
       </p>
       <h4>Eksempel på pakketilbud:</h4>
       <p class="lead">
