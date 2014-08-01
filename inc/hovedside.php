@@ -11,7 +11,7 @@
               <ul class="lead">
                 <li>De beste lærerne.</li>
                 <li>En komplett oppfølging av privatister.</li>
-                <li>Ekstra hjelp for elever i videregående.</li>
+                <li>Ekstra hjelp for elever på VGS og ungdomsskole.</li>
                 <li>Undervisning i realfagene matematikk, fysikk og kjemi.</li>
               </ul>
             </div>
