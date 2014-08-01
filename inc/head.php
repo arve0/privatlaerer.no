@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title>Privatlærer i Trondheim - <?php echo $tittel; ?></title>
+    <title><?php echo $tittel; ?>-Privatlærer i Trondheim</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="Realfagslærere fra lektorutdanningen på NTNU. Fag: Matematikk, fysikk, kjemi, IT og elektronikk. Pris fra 450kr/time." />
@@ -43,6 +43,7 @@
                   <li><a href="laerere.php#laerere">Lærere</a></li>
                   <li><a href="privatist.php#privatist">Privatist</a></li>
                   <li><a href="leksehjelp.php#leksehjelp">Leksehjelp</a></li>
+                  <li><a href="tips.php#tips">Tips</a></li>
                 </ul>
               </div>
             </div>
