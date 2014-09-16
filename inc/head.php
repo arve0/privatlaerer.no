@@ -43,7 +43,7 @@
                   <li><a href="laerere.php#laerere">Lærere</a></li>
                   <li><a href="privatist.php#privatist">Privatist</a></li>
                   <li><a href="leksehjelp.php#leksehjelp">Leksehjelp</a></li>
-                  <li><a href="tips.php#tips">Tips</a></li>
+                  <!--<li><a href="tips.php#tips">Tips</a></li>-->
                 </ul>
               </div>
             </div>
