@@ -134,4 +134,21 @@ function calcAge($birthday){
     </div>
   </div>
 </div>
+<div class="row artikkel">
+  <div class="col-xs-12">
+    <div class="well clearfix">
+      <div class="col-xs-12 col-sm-3 col-md-2" id="iver">
+        <img alt="Iver" class="bilde img-responsive img-rounded" src="img/iver.jpg" />
+      </div>
+      <div class="col-xs-12 col-sm-9 col-md-10">
+        <h2>Iver Lande Kvalsvik</h2>
+        <p class="lead">
+          <b>Alder:</b> <?php calcAge('19890212'); ?><br>
+          <b>Fag:</b> Kjemi, biologi.<br>
+          <b>Tre stikkord:</b> Terrengsykling, matlaging, entusiastisk.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
 </div>
