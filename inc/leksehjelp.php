@@ -7,7 +7,7 @@
       <p class="lead">
         Hjelp med leksene er nyttig når de blir for vanskelige for eleven. Å streve timesvis uten å få noe resultat fører til mer frustrasjon enn nødvendig. Motivasjonen dabber av og det blir et tiltak å få leksene unnagjort. Da kan en avtale med privatlærer lette på byrden. 
         <br><br>
-        Vi hjelper med lekser i de fleste realfag (matematikk, fysikk, kjemi, naturfag, informasjonsteknologi) på ungdomsskole og videregående.
+        Vi hjelper med lekser i de fleste realfag (matematikk, fysikk, kjemi, biologi, naturfag, informasjonsteknologi) på ungdomsskole og videregående.
       </p>
     </div>
   </div>
