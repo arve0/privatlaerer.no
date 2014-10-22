@@ -151,4 +151,21 @@ function calcAge($birthday){
     </div>
   </div>
 </div>
+<div class="row artikkel">
+  <div class="col-xs-12">
+    <div class="well clearfix">
+      <div class="col-xs-12 col-sm-3 col-md-2" id="rune">
+        <img alt="Rune" class="bilde img-responsive img-rounded" src="img/rune.jpg" />
+      </div>
+      <div class="col-xs-12 col-sm-9 col-md-10">
+        <h2>Rune Kleiven Rynning</h2>
+        <p class="lead">
+          <b>Alder:</b> <?php calcAge('19911011'); ?><br>
+          <b>Fag:</b> Matematikk, fysikk.<br>
+          <b>Tre stikkord:</b> Fotball, swing, analyse.
+        </p>
+      </div>
+    </div>
+  </div>
+</div>
 </div>
