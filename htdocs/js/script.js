@@ -1,4 +1,4 @@
-$("document").ready(function($){ //html-lasted ned
+$('body').waitForImages(function(){ //html-lasted ned
   // variabler
   var href = $(location).attr('href');
   var meny = $('.meny');
@@ -23,7 +23,7 @@ $("document").ready(function($){ //html-lasted ned
         elem = $(id);
     if (elem.length) {
       var scroll = elem.offset().top;
-      $('html, body').animate({ scrollTop: scroll-50 },1000);
+      $('html, body').animate({ scrollTop: scroll-100 },1000);
       return false;
     }
   });
@@ -37,7 +37,7 @@ $("document").ready(function($){ //html-lasted ned
   // scroll ved link fra annen side
   if (-1 != href.indexOf('#')) {
     var scroll = $(href.slice(href.indexOf('#'))).offset().top;
-    $('html, body').animate({ scrollTop: scroll-50 },1000);
+    $('html, body').animate({ scrollTop: scroll-100 },1000);
   }
   // contact form
   $('input[required]').attr("data-validation-required-message", "Feltet er obligatorisk.");
@@ -54,7 +54,7 @@ $("document").ready(function($){ //html-lasted ned
         .fail(function(data){
           $('.modal.feil').modal();
         });
-      
+
     }
   });
 });

@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html>
   <head>
-    <title><?php echo $tittel; ?>-Privatlærer i Trondheim</title>
+    <title><?php echo $tittel; ?> - Privatlærer i Trondheim</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <meta name="description" content="Realfagslærere fra lektorutdanningen på NTNU. Fag: Matematikk, fysikk, kjemi, biologi, IT og elektronikk. Pris fra 450kr/time." />
@@ -35,7 +35,7 @@
                 </button>
               </div>
               <div id="collapse" class="collapse navbar-collapse">
-                <ul class="nav navbar-nav"> 
+                <ul class="nav navbar-nav">
                   <li><a href="/">Hjem</a></li>
                   <li><a href="#kontakt">Kontakt</a></li>
                   <li><a href="/#fag">Fag</a></li>
