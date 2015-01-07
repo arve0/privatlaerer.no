@@ -192,7 +192,7 @@ function calcAge($birthday){
         <img alt="Lars" class="bilde img-responsive img-rounded" src="img/lars.jpg" />
       </div>
       <div class="col-xs-12 col-sm-9 col-md-10">
-        <h2>Lars Maringdal</h2>
+        <h2>Lars Meringdal</h2>
         <p class="lead">
           <b>Alder:</b> <?php calcAge('19910709'); ?><br>
           <b>Fag:</b> Matematikk, fysikk.<br>
