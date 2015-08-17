@@ -52,23 +52,6 @@ function calcAge($birthday){
 <div class="row artikkel">
   <div class="col-xs-12">
     <div class="well clearfix">
-      <div class="col-xs-12 col-sm-3 col-md-2" id="karoline">
-        <img alt="Karoline" class="bilde img-responsive img-rounded" src="img/karoline.jpg" />
-      </div>
-      <div class="col-xs-12 col-sm-9 col-md-10">
-        <h2>Karoline Espelien</h2>
-        <p class="lead">
-          <b>Alder:</b> <?php calcAge('19910602'); ?><br>
-          <b>Fag:</b> Kjemi, matematikk.<br>
-          <b>Tre stikkord:</b> Aktiv, tålmodig, engasjert.
-        </p>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="row artikkel">
-  <div class="col-xs-12">
-    <div class="well clearfix">
       <div class="col-xs-12 col-sm-3 col-md-2" id="mathias">
         <img alt="Mathias" class="bilde img-responsive img-rounded" src="img/mathias.jpg" />
       </div>
@@ -95,40 +78,6 @@ function calcAge($birthday){
           <b>Alder:</b> <?php calcAge('19880920'); ?><br>
           <b>Fag:</b> Matematikk, fysikk.<br>
           <b>Tre stikkord:</b> Nerd, rolig, friluftsliv.
-        </p>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="row artikkel">
-  <div class="col-xs-12">
-    <div class="well clearfix">
-      <div class="col-xs-12 col-sm-3 col-md-2" id="mia">
-        <img alt="Mia" class="bilde img-responsive img-rounded" src="img/mia.jpg" />
-      </div>
-      <div class="col-xs-12 col-sm-9 col-md-10">
-        <h2>Mia Andersen</h2>
-        <p class="lead">
-          <b>Alder:</b> <?php calcAge('19920104'); ?><br>
-          <b>Fag:</b> Fysikk, matematikk.<br>
-          <b>Tre stikkord:</b> Mat, strikking, cheerleading.
-        </p>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="row artikkel">
-  <div class="col-xs-12">
-    <div class="well clearfix">
-      <div class="col-xs-12 col-sm-3 col-md-2" id="iver">
-        <img alt="Iver" class="bilde img-responsive img-rounded" src="img/iver.jpg" />
-      </div>
-      <div class="col-xs-12 col-sm-9 col-md-10">
-        <h2>Iver Lande Kvalsvik</h2>
-        <p class="lead">
-          <b>Alder:</b> <?php calcAge('19890212'); ?><br>
-          <b>Fag:</b> Kjemi, biologi.<br>
-          <b>Tre stikkord:</b> Terrengsykling, matlaging, entusiastisk.
         </p>
       </div>
     </div>
