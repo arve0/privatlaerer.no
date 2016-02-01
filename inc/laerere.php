@@ -120,23 +120,6 @@ function calcAge($birthday){
 <div class="row artikkel">
   <div class="col-xs-12">
     <div class="well clearfix">
-      <div class="col-xs-12 col-sm-3 col-md-2" id="kjersti">
-        <img alt="Kjersti" class="bilde img-responsive img-rounded" src="img/kjersti.jpg" />
-      </div>
-      <div class="col-xs-12 col-sm-9 col-md-10">
-        <h2>Kjersti Fandrem</h2>
-        <p class="lead">
-          <b>Alder:</b> <?php calcAge('19900816'); ?><br>
-          <b>Fag:</b> Matematikk, fysikk.<br>
-          <b>Tre stikkord:</b> Volleyball, reise, telemark.
-        </p>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="row artikkel">
-  <div class="col-xs-12">
-    <div class="well clearfix">
       <div class="col-xs-12 col-sm-3 col-md-2" id="lars">
         <img alt="Lars" class="bilde img-responsive img-rounded" src="img/lars.jpg" />
       </div>
