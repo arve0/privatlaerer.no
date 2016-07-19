@@ -32,23 +32,6 @@ function calcAge($birthday){
 <div class="row artikkel">
   <div class="col-xs-12">
     <div class="well clearfix">
-      <div class="col-xs-12 col-sm-3 col-md-2" id="mathias">
-        <img alt="Mathias" class="bilde img-responsive img-rounded" src="img/mathias.jpg" />
-      </div>
-      <div class="col-xs-12 col-sm-9 col-md-10">
-        <h2>Mathias Gjerland</h2>
-        <p class="lead">
-          <b>Alder:</b> <?php calcAge('19890809'); ?><br>
-          <b>Fag:</b> Fysikk, matematikk.<br>
-          <b>Tre stikkord:</b> Fotball, frossenpizza, (klassisk) fysikk.
-        </p>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="row artikkel">
-  <div class="col-xs-12">
-    <div class="well clearfix">
       <div class="col-xs-12 col-sm-3 col-md-2" id="vegar">
         <img alt="Vegar" class="bilde img-responsive img-rounded" src="img/vegar.jpg" />
       </div>
@@ -66,23 +49,6 @@ function calcAge($birthday){
 <div class="row artikkel">
   <div class="col-xs-12">
     <div class="well clearfix">
-      <div class="col-xs-12 col-sm-3 col-md-2" id="rune">
-        <img alt="Rune" class="bilde img-responsive img-rounded" src="img/rune.jpg" />
-      </div>
-      <div class="col-xs-12 col-sm-9 col-md-10">
-        <h2>Rune Kleiven Rynning</h2>
-        <p class="lead">
-          <b>Alder:</b> <?php calcAge('19911011'); ?><br>
-          <b>Fag:</b> Matematikk, fysikk.<br>
-          <b>Tre stikkord:</b> Fotball, swing, analyse.
-        </p>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="row artikkel">
-  <div class="col-xs-12">
-    <div class="well clearfix">
       <div class="col-xs-12 col-sm-3 col-md-2" id="marie">
         <img alt="Marie" class="bilde img-responsive img-rounded" src="img/marie.jpg" />
       </div>
@@ -92,23 +58,6 @@ function calcAge($birthday){
           <b>Alder:</b> <?php calcAge('19921229'); ?><br>
           <b>Fag:</b> Matematikk, fysikk.<br>
           <b>Tre stikkord:</b> Trening, reise, planlegging.
-        </p>
-      </div>
-    </div>
-  </div>
-</div>
-<div class="row artikkel">
-  <div class="col-xs-12">
-    <div class="well clearfix">
-      <div class="col-xs-12 col-sm-3 col-md-2" id="lars">
-        <img alt="Lars" class="bilde img-responsive img-rounded" src="img/lars.jpg" />
-      </div>
-      <div class="col-xs-12 col-sm-9 col-md-10">
-        <h2>Lars Meringdal</h2>
-        <p class="lead">
-          <b>Alder:</b> <?php calcAge('19910709'); ?><br>
-          <b>Fag:</b> Matematikk, fysikk.<br>
-          <b>Tre stikkord:</b> Ski, fotball, kortspill.
         </p>
       </div>
     </div>
