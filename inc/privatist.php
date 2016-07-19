@@ -44,9 +44,6 @@
           <tr>
             <th>Biologi 1, 2</th>
           </tr>
-          <tr>
-            <th>Informasjonstekonologi 1, 2</th>
-          </tr>
         </table>
       </div>
     </div>
