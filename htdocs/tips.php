@@ -1,5 +1,5 @@
 <?php
-$tittel = "Leksehjelp matte, fysikk, kjemi, IT";
+$tittel = "Leksehjelp matte, fysikk, biologi";
 include '../inc/head.php';
 include '../inc/tips.php';
 include '../inc/kontakt.php';

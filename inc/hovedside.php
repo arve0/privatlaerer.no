@@ -9,10 +9,9 @@
             <div class="col-xs-12 col-sm-9 col-md-10">
               <h3>Vi tilbyr</h3>
               <ul class="lead">
-                <li>De beste lærerne.</li>
                 <li>En komplett oppfølging av privatister.</li>
                 <li>Ekstra hjelp for elever på VGS og ungdomsskole.</li>
-                <li>Undervisning i realfagene matematikk, fysikk, kjemi og biologi.</li>
+                <li>Undervisning i realfagene matematikk, fysikk og biologi.</li>
               </ul>
             </div>
           </div>
@@ -39,7 +38,7 @@
             </div>
             <div class="col-xs-12 col-sm-9 col-md-10">
               <h3>Fag</h3>
-              <p class="lead">Privatlaerer.no har spesialister på realfagene matematikk, fysikk, kjemi, biologi, IT og elektronikk. Vi hjelper i hovedsak elever på videregående skole, men har også erfaring med ungdomsskoleelever.</p>
+              <p class="lead">Privatlaerer.no har spesialister på realfagene matematikk, fysikk, biologi, IT og elektronikk. Vi hjelper i hovedsak elever på videregående skole, men har også erfaring med ungdomsskoleelever.</p>
             </div>
           </div>
         </div>

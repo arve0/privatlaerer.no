@@ -1,5 +1,5 @@
 <?php
-$tittel = "Lærere i matte,fysikk,kjemi";
+$tittel = "Lærere i matte,fysikk,biologi";
 include '../inc/head.php';
 include '../inc/hovedside.php';
 include '../inc/kontakt.php';
