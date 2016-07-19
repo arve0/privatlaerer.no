@@ -58,10 +58,6 @@
                   <th class="col-xs-3">Dobbelttimer:</th>
                   <td class="col-xs-9">550kr per time</td>
                 </tr>
-                <tr>
-                  <th class="col-xs-3">Forhåndsbestilling:</th>
-                  <td class="col-xs-9">5 dobbelttimeøkter til 4500kr (450kr per time)</td>
-                </tr>
               </table>
               <p>Avbestilling av time mindre enn 24 timer fra undervisningen medfører en avgift på 300kr.</p>
             </div>
